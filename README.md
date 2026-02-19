@@ -19,4 +19,4 @@ If you can be bothered, you can run a .bat script with task scheduler to auto up
 
 https://github.com/mbtechtt/DuckDNS-IPV4-IPV6
 
-Hope that helps some people because I kept hitting roadblocks
+Hope that helps some people because I couldn't find all the info from one source.
